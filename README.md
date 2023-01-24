@@ -1,5 +1,4 @@
 ### Hi there 👋 
-Hello, I'm Lakmal, and I'm passionate about web programming. I'm currently studying to become a full-stack developer.
 
 I’m currently learning...
 
